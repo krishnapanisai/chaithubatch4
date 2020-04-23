@@ -20,3 +20,5 @@ System.out.println(n);
  prints"p"
  i=1 i<1
  prints"n"*/
+
+/*->this is fine for 3x3 but what about any other dimensions, you have hard-coated it. it's not a generic sol.*/
